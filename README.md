@@ -240,7 +240,7 @@ int main() {
 
     // Encrypt using Playfair Cipher
     encryptByPlayfairCipher(str, key);
-    printf("Cipher text: %s\n", str);
+    printf("Encrypted text: %s\n", str);
 
     // Decrypt the ciphertext
     decryptByPlayfairCipher(str, key);
@@ -253,7 +253,9 @@ int main() {
 
 ## OUTPUT:
 Output:
-![image](https://github.com/user-attachments/assets/e7df3a84-3ca5-4cd7-9671-293565fa3de9)
+
+![image](https://github.com/user-attachments/assets/7b3b6b9b-6b6e-4c6b-a788-aec25c12c3f0)
+
 
 
 ## RESULT:
